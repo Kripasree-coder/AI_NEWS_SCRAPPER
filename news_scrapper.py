@@ -8,7 +8,7 @@ import time
 nltk.download('punkt')
 nltk.download('stopwords')
 
-def fetch_headlines(url="https://techcrunch.com/tag/artificial-intelligence/"):  
+def fetch_headlines(url="https://www.bbc.com/news/topics/cdl8n2edg0gt/artificial-intelligence"):  
     headers = {"User-Agent": "Mozilla/5.0"}
     response = requests.get(url, headers=headers)
     
