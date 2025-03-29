@@ -1,1 +1,1 @@
-# DiabetesPrediction
+# NewsScrapperAI
