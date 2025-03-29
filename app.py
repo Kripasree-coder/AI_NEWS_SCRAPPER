@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from news_scraper import fetch_headlines, summarize_text
+from news_scrapper import fetch_headlines, summarize_text
 
 st.set_page_config(page_title="AI News Scraper", page_icon="📰", layout="wide")
 st.title("📰 AI News Scraper & Summarizer")
