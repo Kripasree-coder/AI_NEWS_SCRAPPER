@@ -24,5 +24,5 @@
 ## 🚀 **Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourgithub/CryptoPulse.git
+git clone [https://github.com/yourgithub/CryptoPulse.git](https://github.com/Kripasree-coder/Crypto_Pulse.git
 cd CryptoPulse
