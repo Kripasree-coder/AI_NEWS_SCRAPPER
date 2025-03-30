@@ -22,7 +22,7 @@
 ---
 **📸 Screenshots**
 **📊 Real-time Crypto Dashboard**
-![image](https://github.com/user-attachments/assets/a655471c-c6e6-4c96-ab40-b0e2f0fc1d7f)
+![image](https://github.com/user-attachments/assets/3f638d60-a24d-491a-aa5a-c15a852bd320)
 
 
 **📡 API Integration**
