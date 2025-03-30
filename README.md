@@ -41,14 +41,8 @@ This project is open-source under the MIT License.
 git clone [https://github.com/yourgithub/CryptoPulse.git](https://github.com/Kripasree-coder/Crypto_Pulse.git
 cd CryptoPulse
 ### **2️⃣ Install Dependencies**
-```sh
-Copy
-Edit
 pip install -r requirements.txt
 ### **3️⃣ Run the Streamlit App**
-```sh
-Copy
-Edit
 streamlit run app.py
 
 
