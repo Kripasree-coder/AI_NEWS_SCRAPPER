@@ -26,3 +26,28 @@
 ```sh
 git clone [https://github.com/yourgithub/CryptoPulse.git](https://github.com/Kripasree-coder/Crypto_Pulse.git
 cd CryptoPulse
+### **2️⃣ Install Dependencies**
+```sh
+Copy
+Edit
+pip install -r requirements.txt
+### **3️⃣ Run the Streamlit App**
+```sh
+Copy
+Edit
+streamlit run app.py
+
+**📸 Screenshots**
+**📊 Real-time Crypto Dashboard**
+![image](https://github.com/user-attachments/assets/a655471c-c6e6-4c96-ab40-b0e2f0fc1d7f)
+
+
+**📡 API Integration**
+This project uses the CoinGecko API to fetch live cryptocurrency prices and historical data.
+
+**📌 API Used:**  CoinGecko API
+
+⚖️ License
+This project is open-source under the MIT License.
+
+
